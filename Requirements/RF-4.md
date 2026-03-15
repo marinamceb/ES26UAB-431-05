@@ -1,14 +1,18 @@
 # Requirements 
 ### ID: 
-_RF 4_
+RF 4
+
 ### Type/Category:
-_funcional_
+funcional
+
 ### Version: 
-_1.0_
+1.0
+
 ### Title:
-_Indicar adreça_
+Indicar adreça
+
 ### Description: 
-_Els usuaris hauran d’indicar l'adreça de recollida_
+Els usuaris hauran d’indicar l'adreça de recollida
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RNF 16

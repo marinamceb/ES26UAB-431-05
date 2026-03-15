@@ -1,14 +1,18 @@
 # Requirements 
 ### ID: 
-_RNF 8_
+RNF 8
+
 ### Type/Category:
-_RNF de Decisió de disseny_
+RNF de Decisió de disseny
+
 ### Version: 
-_1.0_
+1.0
+
 ### Title:
-_Especificacións contrasenya_
+Especificacións contrasenya
+
 ### Description: 
-_La contrasenya ha de tenir més de 8 caràcters, tenir 2 majúscules i més de 2 caràcters especials_
+La contrasenya ha de tenir més de 8 caràcters, tenir 2 majúscules i més de 2 caràcters especials
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RF 1, RNF 3

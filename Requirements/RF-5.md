@@ -1,14 +1,19 @@
 # Requirements 
 ### ID: 
-_RF 5_
+RF 5
+
 ### Type/Category:
-_funcional_
+funcional
+
 ### Version: 
-_1.0_
+1.0
+
 ### Title:
-_Indicar nom_
+Indicar nom
+
 ### Description: 
-_Els usuaris hauran de definir el seu nom d'usuari_
+Els usuaris hauran de definir el seu nom d'usuari
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RNF 6, RF 7
+

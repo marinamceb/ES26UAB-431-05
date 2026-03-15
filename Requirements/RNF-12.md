@@ -1,14 +1,18 @@
 # Requirements 
 ### ID: 
-_RNF 12_
+RNF 12
+
 ### Type/Category:
-_RNF de Decisió de disseny_
+RNF de Decisió de disseny
+
 ### Version: 
-_1.0_
+1.0
+
 ### Title:
-_Canvi rols_
+Canvi rols
+
 ### Description: 
-_Els rols que s'han assumit es poden modificar en qualsevol moment_
+Els rols que s'han assumit es poden modificar en qualsevol moment
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RF 11

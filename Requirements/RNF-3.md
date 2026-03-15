@@ -1,14 +1,18 @@
 # Requirements 
 ### ID: 
-_RNF 3_
+RNF 3
+
 ### Type/Category:
-_RNF de Decisió de disseny_
+RNF de Decisió de disseny
+
 ### Version: 
-_1.0_
+1.0
+
 ### Title:
-_Tipus de registre_
+Tipus de registre
+
 ### Description: 
-_Els clients podran registrar-se amb Gmail o amb Outlook_
+Els clients podran registrar-se amb Gmail o amb Outlook
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RF 1, RF 2, RNF 8

@@ -1,14 +1,18 @@
 # Requirements 
 ### ID: 
-_RF 9_
+RF 9
+
 ### Type/Category:
-_funcional_
+funcional
+
 ### Version: 
-_1.0_
+1.0
+
 ### Title:
-_Perfil actualitzable_
+Perfil actualitzable
+
 ### Description: 
-_El perfil s’ha de poder actualitzar_
+El perfil s’ha de poder actualitzar
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RF 10

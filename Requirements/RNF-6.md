@@ -1,14 +1,18 @@
 # Requirements 
 ### ID: 
-_RNF 6_
+RNF 6
+
 ### Type/Category:
-_RNF de Decisió de disseny_
+RNF de Decisió de disseny
+
 ### Version: 
-_1.0_
+1.0
+
 ### Title:
-_Longitud nom usuari_
+Longitud nom usuari
+
 ### Description: 
-_El nom d’usuari ha de tenir més de 5 caràcters_
+El nom d’usuari ha de tenir més de 5 caràcters
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RF 5, RF 7

@@ -1,14 +1,18 @@
 # Requirements 
 ### ID: 
-_RF 1_
+RF 1
+
 ### Type/Category:
-_funcional_
-### Version: 
-_1.0_
+funcional
+
+### Version:
+1.0
+
 ### Title:
-_Registre correu_
+Registre correu
+
 ### Description: 
-_Els usuaris podran registrar-se amb correu_
+Els usuaris podran registrar-se amb correu
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RF 2, RNF 3, RNF 8

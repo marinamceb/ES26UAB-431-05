@@ -1,14 +1,19 @@
 # Requirements 
 ### ID: 
-_RF 2_
+RF 2
+
 ### Type/Category:
-_funcional_
+funcional
+
 ### Version: 
-_1.0_
+1.0
+
 ### Title:
-_Realitzar comandes_
+Realitzar comandes
+
 ### Description: 
-_Només els usuaris registrats podran realitzar comandes_
+Només els usuaris registrats podran realitzar comandes
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RF 1, RNF 3
+

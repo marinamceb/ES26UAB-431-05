@@ -1,14 +1,18 @@
 # Requirements 
 ### ID: 
-_RF 7_
+RF 7
+
 ### Type/Category:
-_funcional_
+funcional
+
 ### Version: 
-_1.0_
+1.0
+
 ### Title:
-_Nom no repetit_
+Nom no repetit
+
 ### Description: 
-_El nom d’usuari no pot estar repetit dins del sistema_
+El nom d’usuari no pot estar repetit dins del sistema
+
 ### Relations:
-_GRUP 1_
-### Comments: 
+RF 5, RNF 6
