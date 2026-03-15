@@ -1,7 +1,7 @@
 # Requirements
 
 ### ID:
-RF-28
+RNF-28
 
 ### Type/Category:
 No funcional d'Interfícies Externes

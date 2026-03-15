@@ -1,7 +1,7 @@
 # Requirements
 
 ### ID:
-RF-30
+RNF-30
 
 ### Type/Category:
 No funcional d'Interfícies Externes

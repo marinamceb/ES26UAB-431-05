@@ -1,7 +1,7 @@
 # Requirements
 
 ### ID:
-RF-32
+RNF-32
 
 ### Type/Category:
 No funcional d'Interfícies Externes
